@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="btn_start_label">Start</string>
+    <string name="btn_pause_label">Pause/Resume</string>
+    <string name="btn_reset_label">Reset</string>
+    <string name="txt_timer_label">0:0</string>
+</resources>
